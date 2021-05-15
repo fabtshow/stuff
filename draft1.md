@@ -44,8 +44,8 @@ $ npm i streamdb
  
 #### DB Setup:
 
-<p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/a4bb0c0f4b25832b8744514c4ad0efa5259eaaec/img/setup2.svg" alt="setup" height="300px">
+<p align="left"> 
+  <img src="https://github.com/fabtshow/stuff/blob/a4bb0c0f4b25832b8744514c4ad0efa5259eaaec/img/setup2.svg" alt="setup" height="230px">
 </p>
 
 
@@ -59,8 +59,8 @@ streamdb.createDb({ dbName: 'myDb' })
 
 #### Adding Collections:
 
-<p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/8bc822c6f4dccae70f5cf40a3e3f151e1fdf442d/img/add-collections2.svg" alt="adding collections" height="300px">
+<p align="left"> 
+  <img src="https://github.com/fabtshow/stuff/blob/8bc822c6f4dccae70f5cf40a3e3f151e1fdf442d/img/add-collections2.svg" alt="adding collections" height="230">
 </p>
 
 ```js
@@ -251,7 +251,7 @@ ___
 ### Starter Schema Model Template:
 
 <p align="left"> 
-  <img src="https://github.com/fabtshow/stuff/blob/83739c4d518c099c74127b3395a0fa451fd81f0d/img/model-template.svg" alt="model template"  height="500px">
+  <img src="https://github.com/fabtshow/stuff/blob/83739c4d518c099c74127b3395a0fa451fd81f0d/img/model-template.svg" alt="model template"  height="440px">
 </p>
 
 ___
@@ -268,4 +268,10 @@ ___
 | PUT     | `/api/collection/_q/` | Run update queries    | *helper methods*
 | DELETE  | `/api/collection/:id` | Delete by id          | `deleteOne()` 
 
+<br>
+
+**Sample Route From Router Template:**
+<p align="left"> 
+  <img src="https://github.com/fabtshow/stuff/blob/113f74a3790186c27e866a44919f4fadfa37ba5c/img/get-route.svg" alt="route template"  height="420px">
+</p>
 
