@@ -235,7 +235,7 @@ const api = streamdb.server('myDb', 'api', 3000)
 ### 🔗 Starter Collection Routes:
 
 | Request | Route | Description | Method |
-| :-: | --- | --- | :-: |
+| :-:     | ---   | ---         | :-:    |
 | GET | `/api/collection` | Get all documents | `get()` 
 | GET | `/api/collection/:id` | Get by id | `getById()` 
 | GET | `/api/collection/_q/` | Run compound queries | *helper methods*
