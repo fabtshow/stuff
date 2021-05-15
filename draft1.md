@@ -248,7 +248,15 @@ const api = streamdb.server('myDb', 'api', 3000)
 
 ___
 
-### 🔗 Starter Collection Routes:
+### Starter Schema Model Template:
+
+<p align="left"> 
+  <img src="https://github.com/fabtshow/stuff/blob/83739c4d518c099c74127b3395a0fa451fd81f0d/img/model-template.svg" alt="model template"  height="500px">
+</p>
+
+___
+
+### Starter Collection Routes:
 
 | Request | Route                 | Description           | Method |
 | :-:     | ---                   | ---                   | :-:    |
