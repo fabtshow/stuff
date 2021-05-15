@@ -238,6 +238,8 @@ const api = streamdb.server('myDb', 'api', 3000)
 //	}]
 ```
 
+___
+
 ### 🔗 Starter Collection Routes:
 
 | Request | Route                 | Description           | Method |
