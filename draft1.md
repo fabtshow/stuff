@@ -45,7 +45,7 @@ $ npm i streamdb
 #### DB Setup:
 
 <p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/beb23d80656e7cb4af12a49c4ade4e6d8db755e5/img/setup.png" alt="setup" height="370px">
+  <img src="https://github.com/fabtshow/stuff/blob/19ddaa739fecac86de8ec8a24c65f808074ad802/img/setup.svg" alt="setup" height="370px">
 </p>
 
 
