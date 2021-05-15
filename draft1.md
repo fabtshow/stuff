@@ -45,7 +45,7 @@ $ npm i streamdb
 #### DB Setup:
 
 <p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/19ddaa739fecac86de8ec8a24c65f808074ad802/img/setup.svg" alt="setup" height="370px">
+  <img src="https://github.com/fabtshow/stuff/blob/a4bb0c0f4b25832b8744514c4ad0efa5259eaaec/img/setup2.svg" alt="setup" height="300px">
 </p>
 
 
@@ -60,7 +60,7 @@ streamdb.createDb({ dbName: 'myDb' })
 #### Adding Collections:
 
 <p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/c356002ca9b521695f9b5deab78cd7bd840d48e0/img/add-collections.svg" alt="adding collections" height="370px">
+  <img src="https://github.com/fabtshow/stuff/blob/8bc822c6f4dccae70f5cf40a3e3f151e1fdf442d/img/add-collections2.svg" alt="adding collections" height="300px">
 </p>
 
 ```js
