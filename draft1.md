@@ -38,14 +38,14 @@ $ npm i streamdb
 
  
  <p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/5ff03253b16232db43db39ad6690634c5061af97/test2.gif" alt="quick start setup" height="550px">
+  <img src="https://github.com/fabtshow/stuff/blob/5ff03253b16232db43db39ad6690634c5061af97/test2.gif" alt="quick start setup" style="max-height: 550px;">
 </p>
 
  
 #### DB Setup:
 
 <p align="left"> 
-  <img src="https://github.com/fabtshow/stuff/blob/a4bb0c0f4b25832b8744514c4ad0efa5259eaaec/img/setup2.svg" alt="setup" height="230px">
+  <img src="https://github.com/fabtshow/stuff/blob/a4bb0c0f4b25832b8744514c4ad0efa5259eaaec/img/setup2.svg" alt="setup" style="max-height: 230px;">
 </p>
 
 
@@ -60,7 +60,7 @@ streamdb.createDb({ dbName: 'myDb' })
 #### Adding Collections:
 
 <p align="left"> 
-  <img src="https://github.com/fabtshow/stuff/blob/8bc822c6f4dccae70f5cf40a3e3f151e1fdf442d/img/add-collections2.svg" alt="adding collections" height="230">
+  <img src="https://github.com/fabtshow/stuff/blob/8bc822c6f4dccae70f5cf40a3e3f151e1fdf442d/img/add-collections2.svg" alt="adding collections" style="max-height: 230px;">
 </p>
 
 ```js
@@ -251,7 +251,7 @@ ___
 ### Starter Schema Model Template:
 
 <p align="left"> 
-  <img src="https://github.com/fabtshow/stuff/blob/83739c4d518c099c74127b3395a0fa451fd81f0d/img/model-template.svg" alt="model template"  height="440px">
+  <img src="https://github.com/fabtshow/stuff/blob/83739c4d518c099c74127b3395a0fa451fd81f0d/img/model-template.svg" alt="model template" style="max-height: 440px;">
 </p>
 
 ___
@@ -272,6 +272,6 @@ ___
 
 **Sample Route From Router Template:**
 <p align="left"> 
-  <img src="https://github.com/fabtshow/stuff/blob/113f74a3790186c27e866a44919f4fadfa37ba5c/img/get-route.svg" alt="route template"  height="420px">
+  <img src="https://github.com/fabtshow/stuff/blob/113f74a3790186c27e866a44919f4fadfa37ba5c/img/get-route.svg" alt="route template" style="max-height: 420px;">
 </p>
 
