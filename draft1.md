@@ -2,6 +2,7 @@
 
 > A Node streams-based JSON document-model DB, with automatically generated REST API endpoints
 
+
 ### Purpose/Why?
 
 1. A sufficient DB for prototyping/simple demos, an npm install away
@@ -27,7 +28,6 @@
 - [Stability Notice](#stability-notice) 
 
 
-
 ## Usage
 
 #### Install:
@@ -35,8 +35,14 @@
 ```sh
 $ npm i streamdb
 ```
-
+ 
 #### DB Setup:
+
+
+<p align="center"> 
+  <img src="https://github.com/fabtshow/stuff/blob/5ff03253b16232db43db39ad6690634c5061af97/test2.gif" alt="quick start setup" height="550px">
+</p>
+ 
 
 ```js
 const streamdb = require('streamdb')
