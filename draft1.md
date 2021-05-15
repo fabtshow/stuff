@@ -59,6 +59,9 @@ streamdb.createDb({ dbName: 'myDb' })
 
 #### Adding Collections:
 
+<p align="center"> 
+  <img src="https://github.com/fabtshow/stuff/blob/c356002ca9b521695f9b5deab78cd7bd840d48e0/img/add-collections.svg" alt="adding collections" height="370px">
+</p>
 
 ```js
 const streamdb = require('streamdb')
