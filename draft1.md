@@ -35,14 +35,19 @@
 ```sh
 $ npm i streamdb
 ```
+
+ 
+ <p align="center"> 
+  <img src="https://github.com/fabtshow/stuff/blob/5ff03253b16232db43db39ad6690634c5061af97/test2.gif" alt="quick start setup" height="550px">
+</p>
+
  
 #### DB Setup:
 
-
-<p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/5ff03253b16232db43db39ad6690634c5061af97/test2.gif" alt="quick start setup" height="550px">
+<p align="left"> 
+  <img src="https://github.com/fabtshow/stuff/blob/beb23d80656e7cb4af12a49c4ade4e6d8db755e5/img/setup.png" alt="setup">
 </p>
- 
+
 
 ```js
 const streamdb = require('streamdb')
