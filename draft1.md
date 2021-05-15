@@ -258,15 +258,112 @@ ___
 
 ### Starter Collection Routes:
 
-| Request | Route                 | Description           | Method |
-| :-:     | ---                   | ---                   | :-:    |
-| GET     | `/api/collection`     | Get all documents     | `get()` 
-| GET     | `/api/collection/:id` | Get by id             | `getById()` 
-| GET     | `/api/collection/_q/` | Run compound queries  | *helper methods*
-| POST    | `/api/collection`     | Insert many documents | `insertMany()` 
-| PUT     | `/api/collection`     | Update many documents | `updateMany()` 
-| PUT     | `/api/collection/_q/` | Run update queries    | *helper methods*
-| DELETE  | `/api/collection/:id` | Delete by id          | `deleteOne()` 
+<table>
+	<tr>
+		<th>Request</th>
+		<th>Route</th>
+		<th>Description</th>
+		<th>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+		<th>Method</th>
+	</tr>
+	  <tr>
+		<td align="center">GET</td>
+		<td>
+		   <code>/api/collection
+		   </code>
+		</td>
+		<td colspan="2">Get all docs</td>
+		<td align="center">
+		  <code>
+			  get()
+		  </code>
+		</td>
+	  </tr>
+	<tr>
+		<td align="center">GET</td>
+		<td>
+		  <code>
+		  	/api/collection/:id
+		  </code>
+		</td>
+		<td colspan="2">Get by id</td>
+		<td align="center">
+		  <code>
+			  getById()
+		  </code>
+		</td>
+  	</tr>
+	<tr>
+		<td align="center">GET</td>
+		<td>
+		  <code>
+		  	/api/collection/_q/
+		  </code>
+		</td>
+		<td colspan="2">Run compound queries</td>
+		<td align="center">
+		  <code>
+			helper_methods
+		  </code>
+		</td>
+  	</tr>
+	<tr>
+		<td align="center">POST</td>
+		<td>
+		  <code>
+		  	/api/collection
+		  </code>
+		</td>
+		<td colspan="2">Insert many docs</td>
+		<td align="center">
+		  <code>
+			  insertMany()
+		  </code>
+		</td>
+  	</tr>
+	<tr>
+		<td align="center">PUT</td>
+		<td>
+		  <code>
+		  	/api/collection
+		  </code>
+		</td>
+		<td colspan="2">Update many docs</td>
+		<td align="center">
+		  <code>
+			  updateMany()
+		  </code>
+		</td>
+  	</tr>
+	<tr>
+		<td align="center">PUT</td>
+		<td>
+		  <code>
+		  	/api/collection/_q/
+		  </code>
+		</td>
+		<td colspan="2">Run update queries</td>
+		<td align="center">
+		  <code>
+			helper_methods
+		  </code>
+		</td>
+  	</tr>
+	<tr>
+		<td align="center">DELETE</td>
+		<td>
+		  <code>
+		  	/api/collection/:id
+		  </code>
+		</td>
+		<td colspan="2">Delete by id</td>
+		<td align="center">
+		  <code>
+			  deleteOne()
+		  </code>
+		</td>
+  	</tr>
+</table>
 
 <br>
 
