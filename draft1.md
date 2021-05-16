@@ -9,12 +9,19 @@
 2. Keep data with the project...no trial expirations, no query limits, no worries
 3. A minimal interface built for customizable API access
 
+<br>
+
+<p align="center"> 
+  <img src="https://github.com/fabtshow/stuff/blob/69a5ef22ba90e9f7956144759472b3cfffff49b1/img/intro1.gif" alt="quick start setup" style="max-height: 550px;">
+</p>
+
 ### Features
 
 - Store data in JSON files
 - Simple promise-based CRUD methods (includes geo-search)
 - Scaffolded Express Routers, and Mongoose-style schema models
 - Launch server with one line of code
+
 
 ## Table of Contents
 
@@ -35,12 +42,6 @@
 ```sh
 $ npm i streamdb
 ```
-
- 
- <p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/5ff03253b16232db43db39ad6690634c5061af97/test2.gif" alt="quick start setup" style="max-height: 550px;">
-</p>
-
  
 #### DB Setup:
 
