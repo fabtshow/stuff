@@ -10,9 +10,8 @@
 3. A minimal interface built for customizable API access
 
 <br>
-
 <p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/69a5ef22ba90e9f7956144759472b3cfffff49b1/img/intro1.gif" alt="quick start setup" style="max-height: 550px;">
+  <img src="https://github.com/fabtshow/stuff/blob/dbbd68a704fc19cc76c52c479f07ed1c10b9de10/img/dbintro.gif" alt="quick start setup" style="max-height: 550px;">
 </p>
 
 ### Features
@@ -204,8 +203,8 @@ const User = new Schema({
   	lastname: String,
     email: {
     	type: String,
-			required: true,
-      maxlength: 100
+	required: true,
+        maxlength: 100
     }
 }, 
     {
@@ -264,7 +263,7 @@ ___
 		<th>Request</th>
 		<th>Route</th>
 		<th>Description</th>
-		<th>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
+		<th>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
 		<th>Method</th>
 	</tr>
 	  <tr>
