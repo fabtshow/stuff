@@ -36,13 +36,25 @@
 
 ## Usage
 
-#### Install:
+### Install:
 
 ```sh
 $ npm i streamdb
 ```
  
-#### DB Setup:
+### DB Setup:
+
+CLI setup:
+
+<p> 
+  <img src="https://github.com/fabtshow/stuff/blob/1bb98898948346173ff34c584c1cac769819ec05/img/create-cli.svg" alt="setup cli" style="max-width: 360px;">
+</p>
+
+```sh
+$ streamdb create --db sampleDB
+```
+
+File setup:
 
 <p align="left"> 
   <img src="https://github.com/fabtshow/stuff/blob/a4bb0c0f4b25832b8744514c4ad0efa5259eaaec/img/setup2.svg" alt="setup" style="max-height: 230px;">
