@@ -46,8 +46,8 @@ $ npm i streamdb
 
 CLI setup:
 
-<p> 
-  <img src="https://github.com/fabtshow/stuff/blob/1bb98898948346173ff34c584c1cac769819ec05/img/create-cli.svg" alt="setup cli" style="max-width: 360px;">
+<p align="center"> 
+  <img src="https://github.com/fabtshow/stuff/blob/1bb98898948346173ff34c584c1cac769819ec05/img/create-cli.svg" alt="setup cli" width="88%">
 </p>
 
 ```sh
