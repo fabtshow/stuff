@@ -71,6 +71,17 @@ streamdb.createDb({ dbName: 'myDb' })
 
 #### Adding Collections:
 
+Add with CLI:
+
+<p align="center"> 
+  <img src="https://github.com/fabtshow/stuff/blob/418cf5d55babaa9aa051c051df08ea51317f5336/img/add-cli.svg" alt="adding collections" width="88%">
+</p>
+
+```sh
+$ streamdb sampleDB --add users 
+```
+
+Add in file:
 <p align="left"> 
   <img src="https://github.com/fabtshow/stuff/blob/8bc822c6f4dccae70f5cf40a3e3f151e1fdf442d/img/add-collections2.svg" alt="adding collections" style="max-height: 230px;">
 </p>
