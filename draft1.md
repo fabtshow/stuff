@@ -11,12 +11,7 @@
 
 <br>
 <p align="center"> 
-  <img src="assets/intro.gif" alt="quick start setup" style="max-height: 550px;">
-</p>
-
-<br>
-<p align="center"> 
-  <img src="https://github.com/fabtshow/stuff/blob/dbbd68a704fc19cc76c52c479f07ed1c10b9de10/img/dbintro.gif" alt="quick start setup" style="max-height: 550px;">
+  <img src="https://github.com/fabtshow/tests/blob/bbc1a2e663a08b5854dd3aafae3f9fb13419a928/assets/intro.gif" alt="quick start setup" style="max-height: 550px;">
 </p>
 
 ### Features
